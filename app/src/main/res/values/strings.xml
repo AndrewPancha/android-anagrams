@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Anagrams</string>
+    <string name="anagram_button_label">Make Anagram</string>
+    <string name="characters_to_ignore_label">Set of characters to ignore:</string>
+    <string name="enter_text">Enter your text:</string>
+    <string name="ignore_hint_edit_text">ignore</string>
+    <string name="toast_message">Enter your text, please!</string>
+</resources>

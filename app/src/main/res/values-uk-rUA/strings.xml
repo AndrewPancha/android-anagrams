@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Анаграма</string>
+    <string name="anagram_button_label">Створити анаграму</string>
+    <string name="characters_to_ignore_label">Ігнорувати такі символи</string>
+    <string name="enter_text">Введіть ваш текст</string>
+    <string name="ignore_hint_edit_text">введіть символи</string>
+    <string name="toast_message">Введіть ваш текст!</string>
+</resources>
